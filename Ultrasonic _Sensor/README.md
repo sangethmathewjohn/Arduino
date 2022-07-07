@@ -5,3 +5,11 @@ The main process of this sensor is to calculate the distance to an obstacle. The
 <img src="https://i0.wp.com/srituhobby.com/wp-content/uploads/2021/04/11-29.jpg?resize=768%2C432&ssl=1"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+### Circuit
+
+Connect the circuit as shown
+
+<img src="https://i0.wp.com/srituhobby.com/wp-content/uploads/2021/04/12-25.jpg?resize=768%2C472&ssl=1"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
