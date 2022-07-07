@@ -16,8 +16,8 @@ Connect the circuit as shown
 ### Code
 
      void setup() {
-       pinMode(2, OUTPUT);//define arduino pin
-       pinMode(4, INPUT);//define arduino pin
+       pinMode(2, OUTPUT);//define arduino pin --echo pin
+       pinMode(4, INPUT);//define arduino pin -- trig pin
        Serial.begin(9600);//enable serial monitor
 
      }
